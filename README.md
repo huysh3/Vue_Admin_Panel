@@ -2,9 +2,9 @@
 
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
 
-**Live demo:** http://panjiachen.github.io/vueAdmin-template
+**Live demo:** comming soon
 
-[中文文档](https://github.com/PanJiaChen/vueAdmin-template/blob/master/README-zh.md)
+<!-- [中文文档](https://github.com/PanJiaChen/vueAdmin-template/blob/master/README-zh.md) -->
 
 ## Build Setup
 
@@ -26,19 +26,19 @@ npm run build
 npm run build --report
 ```
 
-## Demo
-![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
+<!-- ## Demo
+![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif) -->
 
-## Extra
-If you want router permission && generate menu by user roles , you can use this branch [permission-control](https://github.com/PanJiaChen/vueAdmin-template/tree/permission-control)
+<!-- ## Extra
+If you want router permission && generate menu by user roles , you can use this branch [permission-control](https://github.com/PanJiaChen/vueAdmin-template/tree/permission-control) -->
 
 ## Related Project
  [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 
- [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
+ <!-- [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin) -->
 
 
-## License
+<!-- ## License
 [MIT](https://github.com/PanJiaChen/vueAdmin-template/blob/master/LICENSE) license.
 
-Copyright (c) 2017-present PanJiaChen
+Copyright (c) 2017-present PanJiaChen -->
